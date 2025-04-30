@@ -7,12 +7,12 @@ import { Education } from '../types';
 const educationHistory: Education[] = [
   {
     id: 1,
-    degree: "Master of Computer Applications",
-    institution: "University College of Science , Osmania University",
+    degree: "Learning Skills on Frontend",
+    institution: "Self",
     location: "Hyderabad",
     startDate: "2024",
     endDate: "2026",
-    description: " Doing MCA in Computer Applications."
+    description: "Developing skills"
   },
   {
     id: 2,
